@@ -2,7 +2,7 @@
 
 Smart Budget Management for Students
 
-Developed by Team Veyron Vault
+Developed by Team Veyron Vault!
 
 📌 About the Project
 
